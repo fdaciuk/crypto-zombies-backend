@@ -1,5 +1,5 @@
 # Crypto Zombies (contracts)
 
-## Delploy
+## Deploy
 
 Run `yarn deploy:dev`
